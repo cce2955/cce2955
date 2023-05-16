@@ -14,14 +14,12 @@ I'm a CS graduate with a strong passion for programming and technology. Welcome 
 
 Here are some of my noteworthy projects:
 
-1.[IgnoreBlueCheck](https://github.com/cce2955/ignorebluecheck): A Chrome extension that hides and blocks content from blue checkmarks on Twitter, even when you're logged out.
-   - Technologies used: JavaScript, CSS, HTML
- 
+1. [IgnoreBlueCheck](https://github.com/cce2955/ignorebluecheck): A Chrome extension that hides and blocks content from blue checkmarks on Twitter, even when you're logged out.
+   - Technologies used: JavaScript, CSS, HTML.
 2. [DjangoWeatherApp](https://github.com/cce2955/DjangoWeatherApp): A quick Django project that displays the weather in three cities using the OpenWeather API.
-   - Technologies used: Python, Cython, C, HTML, JavaScript, CSS
-
+   - Technologies used: Python, Cython, C, HTML, JavaScript, CSS.
 3. [ToDo List in Android](https://github.com/cce2955/android-todolist): A simple to-do list app that runs on Android devices.
-   - Technologies used: Kotlin
+   - Technologies used: Kotlin.
 
 Feel free to explore my repositories for more exciting projects and contributions!
 
