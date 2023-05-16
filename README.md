@@ -8,7 +8,7 @@ I'm a CS graduate with a strong passion for programming and technology. Welcome 
 - Web Development: Building stunning and responsive websites
 - Multimedia: Creating engaging and interactive digital experiences
 - Information Technology: Offering IT solutions and expertise
-## 🚀 Projects
+
 
 ## 🚀 Projects
 
