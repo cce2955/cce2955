@@ -31,7 +31,14 @@ Feel free to explore my repositories for more exciting projects and contribution
 - **Technology Information Specialist** (Jan 2019 - Present): Providing expertise in information technology solutions, overseeing projects, and offering technical support.
 - **Freelance Programmer** (2022 - Present): Offering programming services on a freelance basis, working on various projects and delivering tailored solutions.
 
+## Certifications
 
+- Yes, I am in fact certified, thanks for asking, I currently hold:
+  - CompTIA A+
+  - CompTIA Network+
+  - CompTIA Security+
+  - Google IT Support
+  - Google Cybersecurity Specialization
 
 
 ## 📫 Get in Touch
